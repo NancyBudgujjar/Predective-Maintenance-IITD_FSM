@@ -1,3 +1,4 @@
-NASA Turbofan Engine Dataset 
 IITD-FSM Internship
-Project 05 Equipment Failure Prediction fo rPredictive Maintenance
+
+Project 05 Equipment Failure Prediction for Predictive Maintenance
+Dataset: NASA Turbofan Engine Dataset
